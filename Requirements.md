@@ -1,0 +1,5 @@
+You need JExcelApi for [SpreadsheetReader\_Excel](http://php-spreadsheetreader.googlecode.com/svn/Excel/). You could visit [JExcelApi homepage](http://www.andykhan.com/jexcelapi/). Download the jexcelapi tgz ball and extract it. Then you just need to put jxl.jar in the same directory with [SpreadsheetReader\_Excel.php](http://php-spreadsheetreader.googlecode.com/svn/Excel/).
+
+你需要 JExcelApi 才能使用 [SpreadsheetReader\_Excel](http://php-spreadsheetreader.googlecode.com/svn/Excel/) 讀取 Microsoft Excel 97/2000 的試算表。 拜訪 [JExcelApi 首頁](http://www.andykhan.com/jexcelapi/) 取得。下載 jexcelapi tgz 文件包並解開。接著你只需要將 jxl.jar 放在 [SpreadsheetReader\_Excel.php](http://php-spreadsheetreader.googlecode.com/svn/Excel/) 的目錄中即可。
+
+JExcelApi also is issued on under the GNU Lesser General Public License. The same License as   this project's.
